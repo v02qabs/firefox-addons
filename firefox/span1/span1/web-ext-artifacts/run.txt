@@ -1,0 +1,6 @@
+open pro.chobi.net
+user takos sg01St!
+cd public_html
+cd faddon
+prompt
+mput *.zip
